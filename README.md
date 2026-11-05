@@ -1,6 +1,6 @@
 # Hi, I'm Sohyun (Molly) Kim 👋
 
-I'm a Statistics & Data Science student at the **University of California, Los Angeles (UCLA)**, expecting to graduate in **2027**.
+I'm a Statistics & Data Science student at the **UCLA**, expecting to graduate in **2027**.
 
 I'm interested in **machine learning, natural language processing, statistical modeling, and data analytics**. I enjoy exploring how data can help us understand real-world patterns and support better decisions, and I'm always looking to deepen my technical skills through hands-on projects and research.
 
@@ -24,6 +24,6 @@ I'm interested in **machine learning, natural language processing, statistical m
 **Methods:** Exploratory data analysis, statistical modeling, NLP, clustering, and data visualization
 
 ### Connect
-- [LinkedIn](https://www.linkedin.com/) — profile link to be added
+- https://www.linkedin.com/in/molly-kim-b9a313280/
 
 Thanks for visiting!
