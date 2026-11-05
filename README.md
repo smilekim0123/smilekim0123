@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sohyun (Molly) Kim 👋
 
-<!--
-**smilekim0123/smilekim0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Statistics & Data Science student at the **University of California, Los Angeles (UCLA)**, expecting to graduate in **2027**.
 
-Here are some ideas to get you started:
+I'm interested in **machine learning, natural language processing, statistical modeling, and data analytics**. I enjoy exploring how data can help us understand real-world patterns and support better decisions, and I'm always looking to deepen my technical skills through hands-on projects and research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of interest
+- Machine learning and natural language processing
+- Statistical modeling and inference
+- Data analysis and visualization
+- Applications of data science in research and business
+
+### Selected project experience
+- **Reddit Vaccine Discourse Analysis** — Explored vaccine-related online discussions using NLP methods including sentence embeddings, UMAP, HDBSCAN, and TF-IDF.
+- **Los Angeles Crime Data Analysis** — Investigated patterns in LA crime data through exploratory data analysis and visualization.
+- **Statistical Modeling with Kaggle Data** — Applied statistical modeling methods in UCLA statistics coursework.
+- **PS4 Game Sales Analysis** — Examined regional video game sales patterns and publisher performance.
+
+*I'm organizing my project code and documentation for publication here. Individual repositories will be linked as they become available.*
+
+### Tools and skills
+**Programming:** R, Python, C++  
+**Data tools:** Excel, Tableau  
+**Methods:** Exploratory data analysis, statistical modeling, NLP, clustering, and data visualization
+
+### Connect
+- [LinkedIn](https://www.linkedin.com/) — profile link to be added
+
+Thanks for visiting!
