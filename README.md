@@ -1,4 +1,4 @@
-# Hi, I'm Sohyun (Molly) Kim 👋
+# Hi, I'm Molly(Shogun) Kim 👋
 
 I'm a Statistics & Data Science student at the **UCLA**, expecting to graduate in **2027**.
 
